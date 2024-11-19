@@ -1,0 +1,42 @@
+c:\users\user\Desktop\2024.10.22\2024.10.22\bin\Debug\2024.10.22.exe.config
+c:\users\user\Desktop\2024.10.22\2024.10.22\bin\Debug\2024.10.22.exe
+c:\users\user\Desktop\2024.10.22\2024.10.22\bin\Debug\2024.10.22.pdb
+c:\users\user\Desktop\2024.10.22\2024.10.22\obj\Debug\2024.10.22.csprojResolveAssemblyReference.cache
+c:\users\user\Desktop\2024.10.22\2024.10.22\obj\Debug\_2024._10._22.Form1.resources
+c:\users\user\Desktop\2024.10.22\2024.10.22\obj\Debug\_2024._10._22.Properties.Resources.resources
+c:\users\user\Desktop\2024.10.22\2024.10.22\obj\Debug\2024.10.22.csproj.GenerateResource.Cache
+c:\users\user\Desktop\2024.10.22\2024.10.22\obj\Debug\2024.10.22.exe
+c:\users\user\Desktop\2024.10.22\2024.10.22\obj\Debug\2024.10.22.pdb
+c:\users\user\Desktop\2024.10.22\2024.10.22\bin\Debug\BarcodeLib.dll
+F:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\bin\Debug\2024.10.22.exe.config
+F:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\obj\Debug\2024.10.22.exe
+F:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\obj\Debug\2024.10.22.pdb
+F:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\bin\Debug\2024.10.22.exe
+F:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\bin\Debug\2024.10.22.pdb
+F:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\obj\Debug\2024.10.22.csprojResolveAssemblyReference.cache
+F:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\obj\Debug\_2024._10._22.Form1.resources
+F:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\obj\Debug\_2024._10._22.Properties.Resources.resources
+F:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\obj\Debug\2024.10.22.csproj.GenerateResource.Cache
+D:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\obj\Debug\2024.10.22.csproj.AssemblyReference.cache
+D:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\obj\Debug\_2024._10._22.Form1.resources
+D:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\obj\Debug\_2024._10._22.Form2.resources
+D:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\obj\Debug\_2024._10._22.Properties.Resources.resources
+D:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\obj\Debug\2024.10.22.csproj.GenerateResource.cache
+D:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\obj\Debug\2024.10.22.csproj.CoreCompileInputs.cache
+D:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\obj\Debug\2024.10.22.exe
+D:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\obj\Debug\2024.10.22.pdb
+D:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\bin\Debug\2024.10.22.exe.config
+D:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\bin\Debug\2024.10.22.exe
+D:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\bin\Debug\2024.10.22.pdb
+D:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\obj\Debug\2024.10.22.csproj.Up2Date
+E:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\obj\Debug\2024.10.22.csproj.AssemblyReference.cache
+E:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\obj\Debug\_2024._10._22.Form1.resources
+E:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\obj\Debug\_2024._10._22.Properties.Resources.resources
+E:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\obj\Debug\2024.10.22.csproj.GenerateResource.cache
+E:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\obj\Debug\2024.10.22.csproj.CoreCompileInputs.cache
+E:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\obj\Debug\2024.10.22.exe
+E:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\obj\Debug\2024.10.22.pdb
+E:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\bin\Debug\2024.10.22.exe.config
+E:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\bin\Debug\2024.10.22.exe
+E:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\bin\Debug\2024.10.22.pdb
+E:\ismailllllll\SELAM KAÇMAZ\multi medya\2024.10.22\2024.10.22\obj\Debug\2024.10.22.csproj.Up2Date
